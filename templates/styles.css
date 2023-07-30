@@ -1,0 +1,154 @@
+*{
+    margin: 0%;
+}
+.head{
+    background: url(_bg.jpg);
+    background-position: center;
+    height: 95vh;
+    background-size: cover;
+    width: 100vw;
+}
+.head{
+padding: 30px 20px;
+}
+.head li, ul{
+    display: inline-block;
+    float: right;
+    color: white;
+    padding: 10px;
+    font-size: large;
+}
+.head ul{
+    padding-right: 20px;
+}
+.head li:hover{
+    border-bottom: 2px solid white ;
+    border-radius: 10px;
+}
+
+.head .hh{
+    display: inline-block;
+   color: white;
+   font-size: 36px;
+   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   transition: 0.5s;
+   }
+.head .hh:hover{
+   font-size:40px ;
+}   
+a{
+    text-decoration: none;
+    color: white;
+}
+.img img{
+    position: absolute;
+    top: 90px;
+    right: 0%;
+    width: 50%;
+    
+   }
+   .head .con{
+    padding-top: 20pxs;
+    color: white;
+    font-size: 100px;
+   }
+
+ .get{
+    display: inline-block;
+    position: absolute;
+    left: 20%;
+    margin-top: 20px;
+ } 
+ .get{
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px;
+ } 
+ .get:hover{
+    background-color: ;
+ }
+ * {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.buttons {
+    margin: 10%;
+    text-align: center;
+}
+button{
+    font-size: 29px;
+}
+
+.btn-hover {
+    width: 200px;
+    font-size: 16px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+
+    border-radius: 50px;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:hover {
+    background-position: 100% 0;
+    moz-transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.btn-hover:focus {
+    outline: none;
+}
+
+
+.btn-hover.color-3 {
+    background-image: linear-gradient(to right, #667eea, #7f11ed, #6B8DD6, #8E37D7);
+    box-shadow: 0 4px 15px 0 rgba(116, 79, 168, 0.75);
+}
+.three{
+color: black;
+border: 2px solid black;
+}
+.three:hover{
+    box-shadow: 5px 5px black ;
+}
+
+.mid{
+    margin: 20px;
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.last{
+    background: url(_bg.jpg);
+    background-position: center;
+    height: 95vh;
+    background-size: cover;
+    width: 100vw;
+}
+form{
+    padding-top: 30px;
+    color: white;
+    text-align: center;
+}
+.container{
+    position: absolute;
+    top: 730px;
+    left: 400px;
+    color: white;
+    font-size: 10px;
+}
