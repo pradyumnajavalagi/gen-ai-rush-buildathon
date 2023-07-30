@@ -9,18 +9,24 @@
 
 ## README.md must consist of the following information:
 
-#### Team Name -
-#### Problem Statement - 
-#### Team Leader Email -
+#### Team Name - Byte Squad
+#### Problem Statement - Revolutionizing ECG Analysis using AI
+#### Team Leader Email - ajpradyumna@gmail.com
 
 ## A Brief of the Prototype:
-  This section must include UML Diagrams and prototype description
+  AI ECG: Efficient and accurate heart health monitoring through AI-powered ECG analysis with accuracy of 85%.
+ECG Architecture: Data acquisition, preprocessing, feature extraction, and classification using CNNs and RNNs.
+Business Model: Offering AI ECG services to heart patients, senior citizens, and coma patients with hospital connections. D2C approach, medical device sales, research, and partnerships to expand the business.
+India's healthcare industry has been growing at a Compound Annual Growth Rate of around 22% since 2016. At this rate, it is expected to reach USD 372 Billion in 2022.
   
 ## Tech Stack: 
-   List Down all technologies used to Build the prototype
+   Chatgpt, vs code, html, python, css, tensorflow, nodejs,excel
    
 ## Step-by-Step Code Execution Instructions:
-  This Section must contain a set of instructions required to clone and run the prototype so that it can be tested and deeply analyzed
+  AI ECG: Efficient and accurate heart health monitoring through AI-powered ECG analysis with accuracy of 85%.
+ECG Architecture: Data acquisition, preprocessing, feature extraction, and classification using CNNs and RNNs.
+Business Model: Offering AI ECG services to heart patients, senior citizens, and coma patients with hospital connections. D2C approach, medical device sales, research, and partnerships to expand the business.
+India's healthcare industry has been growing at a Compound Annual Growth Rate of around 22% since 2016. At this rate, it is expected to reach USD 372 Billion in 2022.
   
 ## What I Learned:
-   Write about the biggest learning you had while developing the prototype
+   i learned about ai,ml and how to do business with it
